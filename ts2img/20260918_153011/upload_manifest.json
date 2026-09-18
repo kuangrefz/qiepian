@@ -1,0 +1,19 @@
+{
+  "tool": "ts2img-upload-v1",
+  "created": "2026-09-18 15:30:17",
+  "host": "github",
+  "total": 1,
+  "ext": "ts",
+  "segments": [
+    {
+      "i": 0,
+      "url": "https://gcore.jsdelivr.net/gh/kuangrefz/qiepian@main/ts2img/20260918_153011/IMG_000000.png",
+      "size": 6663825,
+      "sha": "bcf5d9972228e27d92c3b00bce475d70958701a47dd93ce15781d0358f3be0a9"
+    }
+  ],
+  "meta": {
+    "source": "",
+    "title": ""
+  }
+}
