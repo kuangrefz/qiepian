@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.0,
+https://gcore.jsdelivr.net/gh/kuangrefz/qiepian@main/ts2img/hls_20260921_165537/part_0000.ts
+#EXT-X-ENDLIST
