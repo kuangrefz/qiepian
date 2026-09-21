@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.0,
+https://gh-proxy.com/https://raw.githubusercontent.com/gh/kuangrefz/qiepian@main/ts2img/index/part_0000.ts
+#EXT-X-ENDLIST
